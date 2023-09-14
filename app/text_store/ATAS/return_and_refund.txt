@@ -1,0 +1,9 @@
+returning item, get refund
+online purchases.
+return reason, refund reason
+return request, refund request
+refund process, refund procedure, refund policy, return policies
+approved return request: generate return label, return status
+
+
+

@@ -1,0 +1,4 @@
+google calendar
+manage schedules, timetable.
+book appointment event, create appointment event, delete appointment event, update appoitment event, create appointment event
+mark down: date, time, location, venue, participants, agenda.

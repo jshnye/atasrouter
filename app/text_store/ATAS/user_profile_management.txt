@@ -1,0 +1,5 @@
+user profile management.
+user accounts 
+account detail: update profile informatio, retrive account-related information.
+Profile information: name, contact details, age, gender, phone number, home addresses.
+

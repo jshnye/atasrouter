@@ -1,0 +1,14 @@
+checkout payment
+transaction issues
+payment process, payment procedure 
+payment methods: pay by cash,pay by cards, online payment.
+pay by cards: credit cards, debit cards, visa mastercard, american express(amex)
+e-wallet or digital wallet, scan QR code
+digital wallets: Touch n Go, Alipay, Grab pay by Grab, Boost, WeChat Pay, MAE by Maybank and BigPay
+shipping addresses accurate 
+order summaries: order numbers, itemized lists of purchased items, prices, estimated delivery dates.
+
+
+
+
+

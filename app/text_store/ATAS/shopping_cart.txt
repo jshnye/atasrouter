@@ -1,0 +1,16 @@
+shopping cart
+add item into shopping cart, remove item from shopping cart
+update detail of shopped item
+calculate total cost of all items in shopping cart
+view order: display item in shopping cart, list out all item in shopping cart currently
+calculate total cost: applicable discounts, promotions 
+
+
+
+
+
+
+
+
+
+

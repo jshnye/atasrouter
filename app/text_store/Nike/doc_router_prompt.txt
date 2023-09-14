@@ -1,0 +1,3 @@
+Good for answering questions for purely based on your knowledge.Your knowledge are from a collection of unstructured data. the collection consists of 2 files. below is the information of the collection of the ustructutred data.
+The filename is 'NIKE PRIVACY POLICY AND COOKIE.pdf'. the description of file is: 'The file is a privacy policy and cookie policy from Nike, explaining how personal data is collected, used, and protected when interacting with their platforms and services.'.
+The filename is 'NIKE's synthetic documents.pdf'. the description of file is: 'The file provides comprehensive information about Nike, Inc., including its history, products, store locations, return policy, and a list of clothing items and accessories.'.

@@ -1,0 +1,8 @@
+Good for answering questions purely based on your knowledge. You are able of providing a plot like chart or graph based on the answer generated to user.Your knowledge are from a relational databases, the database consists of 7 tables.Below is the information of all tables in the database.
+The table name is 'Cart'. The headers of the table are: 'Cart_id,customer_id.'
+The table name is 'Cart_item'. The headers of the table are: 'Cart_id,product_id,quantity.'
+The table name is 'Category'. The headers of the table are: 'category_id,category_name.'
+The table name is 'Customer'. The headers of the table are: 'customer_id,customer_name,email_address,gender,age,phone,address,state,postcode.'
+The table name is 'CustomerOrder'. The headers of the table are: 'order_id,amount,order_date,confirmation_number,customer_id.'
+The table name is 'OrderDetails'. The headers of the table are: 'order_id,product_id,quantity.'
+The table name is 'Product'. The headers of the table are: 'product_id,product_name,price,description,last_update,category_id.'
